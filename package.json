@@ -888,5 +888,17 @@
             "v1.1": "修复CookieCloud覆盖到浏览器",
             "v1.0": "同步MoviePilot站点Cookie到CookieCloud"
         }
+    },
+    "EmbyReporterr": {
+        "name": "观影报告",
+        "description": "观影报告",
+        "labels": "emby",
+        "version": "1.0.0",
+        "icon": "Cookiecloud_A.png",
+        "author": "enbyafish",
+        "level": 1,
+        "history": {
+            "v1.0.0": "初始化"
+        }
     }
 }
